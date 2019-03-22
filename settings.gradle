@@ -1,0 +1,1 @@
+include ':app', 'categorye:demo1',":buildsrc"
